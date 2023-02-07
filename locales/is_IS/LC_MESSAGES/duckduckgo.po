@@ -698,6 +698,11 @@ msgctxt "image-color"
 msgid "Black and white"
 msgstr ""
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Blizzard"
+msgstr ""
+
 msgid "Block Trackers"
 msgstr "Loka á rekjara"
 
@@ -730,6 +735,16 @@ msgstr "Lokar á rekjara á vefsíðum sem þú heimsækir"
 msgid "Blog"
 msgstr "Blogg"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Blowing dust"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Blowing snow"
+msgstr ""
+
 #. The color blue
 msgid "Blue"
 msgstr "Blátt"
@@ -761,6 +776,11 @@ msgstr ""
 
 msgid "Brazil"
 msgstr "Brasilía"
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Breezy"
+msgstr ""
 
 msgctxt "color"
 msgid "Brown"
@@ -1013,6 +1033,11 @@ msgstr "Sígilt"
 msgid "Clear"
 msgstr "Hreinsa"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Clear"
+msgstr ""
+
 msgctxt "precise_user_location"
 msgid "Clear"
 msgstr "Hreinsa"
@@ -1260,6 +1285,11 @@ msgid ""
 msgstr ""
 "Cloud Save leyfir þér að vista þínar stillingar meira varanlega með því að "
 "slá inn aðgangsfrasa. Það er alveg valfrjálst."
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Cloudy"
+msgstr ""
 
 msgid "Colombia"
 msgstr "Kólumbía"
@@ -1660,6 +1690,11 @@ msgctxt "directions"
 msgid "Driving"
 msgstr ""
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Drizzle"
+msgstr ""
+
 #. This is the DDG version of "Google it", meaning "search it".
 msgid "Duck it"
 msgstr ""
@@ -2022,6 +2057,16 @@ msgstr ""
 msgid "Flights"
 msgstr "Flug"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Flurries"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Foggy"
+msgstr ""
+
 msgctxt "new user poll"
 msgid "Following us on Twitter"
 msgstr ""
@@ -2064,6 +2109,16 @@ msgctxt "image-licence"
 msgid "Free to Share and Use Commercially"
 msgstr ""
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Freezing drizzle"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Freezing rain"
+msgstr ""
+
 #. The name of the French language
 msgctxt "language_name"
 msgid "French"
@@ -2074,6 +2129,11 @@ msgctxt "language_name"
 msgid "French (Canada)"
 msgstr ""
 
+#. Weekday abbreviation (short for 'Friday')
+msgctxt "maps_places"
+msgid "Fri"
+msgstr ""
+
 #. Weekday in plural form
 msgctxt "maps_places"
 msgid "Fridays"
@@ -2082,6 +2142,11 @@ msgstr ""
 msgctxt "new user poll"
 msgid "Friend or family"
 msgstr "Kunningi eða ættingi"
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Frigid"
+msgstr ""
 
 #. This is an option for a user setting. It refers to showing the full URL for a website, including the url path, but made to look like the breadcrumbs of a website (e.g. website.com > this > is > the > path) -- Example image: https://i.imgur.com/roiQBYz.png
 msgctxt "settingsvalue"
@@ -2305,6 +2370,11 @@ msgstr "HTTPS"
 msgid "HTTPS:"
 msgstr "HTTPS:"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Hail"
+msgstr ""
+
 #. The name of the Haitian Creole language
 msgctxt "language_name"
 msgid "Haitian Creole"
@@ -2313,6 +2383,11 @@ msgstr ""
 #. Halftime in a game (like American football or basketball)
 msgctxt "Sports module"
 msgid "Halftime"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Haze"
 msgstr ""
 
 msgctxt "settings"
@@ -2332,6 +2407,16 @@ msgstr "Hauslitur"
 #. <em>ko</em>'s and <em>kj</em>'s label for one of the color or interface settings query parameters into <a href="https://duckduckgo.com/params.html">query parameters documentation page</a>.
 msgid "Header:"
 msgstr "Haus:"
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Heavy rain"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Heavy snow"
+msgstr ""
 
 #. The name of the Hebrew language
 msgctxt "language_name"
@@ -2453,6 +2538,11 @@ msgstr ""
 msgid "Hong Kong"
 msgstr "Hong Kong"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Hot"
+msgstr ""
+
 msgctxt "maps_places"
 msgid "Hours"
 msgstr "Opnunartími"
@@ -2514,6 +2604,11 @@ msgstr ""
 
 msgid "Hungary"
 msgstr "Ungverjaland"
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Hurricane"
+msgstr ""
 
 msgctxt "feedback form"
 msgid "I don't want this type of result"
@@ -2729,6 +2824,11 @@ msgstr ""
 
 msgctxt "feedback form"
 msgid "Is this video helpful?"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Isolated thunderstorms"
 msgstr ""
 
 msgid "Israel"
@@ -3281,6 +3381,11 @@ msgctxt "settingsvalue"
 msgid "Moderate"
 msgstr "Hófleg"
 
+#. Weekday abbreviation (short for 'Monday')
+msgctxt "maps_places"
+msgid "Mon"
+msgstr ""
+
 #. Weekday in plural form
 msgctxt "maps_places"
 msgid "Mondays"
@@ -3387,6 +3492,11 @@ msgid "More ways to add DuckDuckGo to %s"
 msgstr ""
 
 msgid "Morocco"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Mostly clear"
 msgstr ""
 
 msgctxt "precise_user_location"
@@ -3907,6 +4017,11 @@ msgctxt "settings"
 msgid "Page Width"
 msgstr "Síðubreidd"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Partly cloudy"
+msgstr ""
+
 #. The name of the Pashto language
 msgctxt "language_name"
 msgid "Pashto"
@@ -4345,6 +4460,11 @@ msgctxt "new user poll"
 msgid "Radio or podcast"
 msgstr "Útvarp eða hlaðvarp"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Rain"
+msgstr ""
+
 #. Placeholder will be a number. This is used to describe extension rating out of 5 stars.
 msgid "Rated %s/5"
 msgstr ""
@@ -4544,6 +4664,11 @@ msgstr ""
 #. The name of the Samoan language
 msgctxt "language_name"
 msgid "Samoan"
+msgstr ""
+
+#. Weekday abbreviation (short for 'Saturday')
+msgctxt "maps_places"
+msgid "Sat"
 msgstr ""
 
 #. For a button that shows satellite imagery on a map
@@ -5099,6 +5224,11 @@ msgstr ""
 msgid "Size:"
 msgstr "Stærð:"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Sleet"
+msgstr ""
+
 #. The name of the Slovak language
 msgctxt "language_name"
 msgid "Slovak"
@@ -5125,9 +5255,19 @@ msgctxt "size"
 msgid "Small"
 msgstr "Lítil"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Smoky"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "Snippet Color"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Snow"
 msgstr ""
 
 msgid "Social"
@@ -5213,11 +5353,13 @@ msgstr "Upplýstu þig"
 
 msgctxt "SERP footer content"
 msgid "Stay protected and informed with our privacy newsletters."
-msgstr "Vertu vernd/uð/aður og upplýst/ur með persónuverndarfréttabréfum okkar."
+msgstr ""
+"Vertu vernd/uð/aður og upplýst/ur með persónuverndarfréttabréfum okkar."
 
 msgctxt "showcase_newsletter"
 msgid "Stay protected and informed with our privacy newsletters."
-msgstr "Vertu vernd/uð/aður og upplýst/ur með persónuverndarfréttabréfum okkar."
+msgstr ""
+"Vertu vernd/uð/aður og upplýst/ur með persónuverndarfréttabréfum okkar."
 
 #. Instant Answer tab name - eg. https://duckduckgo.com/?q=Energy+Transfer+Equity&ia=stock
 msgid "Stock"
@@ -5246,6 +5388,11 @@ msgstr "Ströng"
 #. Indicates the current win or loss streak of a team
 msgctxt "Sports module"
 msgid "Strk"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Strong storms"
 msgstr ""
 
 #. in https://duckduckgo.com/feedback in the end. It is a button
@@ -5278,9 +5425,24 @@ msgctxt "Covid 19 module"
 msgid "Summary"
 msgstr ""
 
+#. Weekday abbreviation (short for 'Sunday')
+msgctxt "maps_places"
+msgid "Sun"
+msgstr ""
+
 #. Weekday in plural form
 msgctxt "maps_places"
 msgid "Sundays"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Sunflurries"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Sunshowers"
 msgstr ""
 
 #. http://i.imgur.com/FczLkAL.png
@@ -5577,6 +5739,16 @@ msgstr ""
 "Þetta stillir allar vistaðar stillingar aftur í sjálfgefin gildi. Viltu "
 "halda áfram?"
 
+#. Weekday abbreviation (short for 'Thursday')
+msgctxt "maps_places"
+msgid "Thu"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Thunderstorms"
+msgstr ""
+
 #. Weekday in plural form
 msgctxt "maps_places"
 msgid "Thursdays"
@@ -5692,6 +5864,11 @@ msgctxt "image-type"
 msgid "Transparent"
 msgstr "Gagnsætt"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Tropical storm"
+msgstr ""
+
 msgid "Trusted by tens of millions worldwide!"
 msgstr ""
 
@@ -5745,6 +5922,11 @@ msgstr "Prófaðu: %s"
 msgctxt "new user poll"
 msgid "Trying DuckDuckGo again"
 msgstr "Ég er að prófa DuckDuckGo aftur"
+
+#. Weekday abbreviation (short for 'Tuesday')
+msgctxt "maps_places"
+msgid "Tue"
+msgstr ""
 
 #. Weekday in plural form
 msgctxt "maps_places"
@@ -6185,6 +6367,11 @@ msgctxt "feedback form"
 msgid "Website is missing"
 msgstr ""
 
+#. Weekday abbreviation (short for 'Wednesday')
+msgctxt "maps_places"
+msgid "Wed"
+msgstr ""
+
 #. Weekday in plural form
 msgctxt "maps_places"
 msgid "Wednesdays"
@@ -6316,6 +6503,11 @@ msgctxt "forecast"
 msgid "Wind"
 msgstr "Vindhraði"
 
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Windy"
+msgstr ""
+
 #. Text indicating the winner of a World Cup game when that team is not yet known
 msgctxt "Sports module"
 msgid "Winner of Game %s"
@@ -6329,6 +6521,11 @@ msgstr ""
 #. Indicates this is the number of wins for this team
 msgctxt "Sports module"
 msgid "Wins"
+msgstr ""
+
+#. Description of the daily/hourly weather condition, as returned from the (WeatherKit) API
+msgctxt "Weather IA"
+msgid "Wintry mix"
 msgstr ""
 
 msgctxt "Covid 19 module"
